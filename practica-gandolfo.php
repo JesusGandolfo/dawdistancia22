@@ -30,8 +30,8 @@
    }
 
    $resultado_de_suma = sumar(20, 7);
-   echo 'La suma es: '. $resultado_de_suma;
+   echo 'La suma de 20 +7 es: '. $resultado_de_suma;
    echo '<br />';
    $resultado = multiplicar (2, 9 ) ;
-   echo'La multiplicación es: '. $resultado;	
+   echo'La multiplicación de 2*9 es: '. $resultado;	
 ?>
